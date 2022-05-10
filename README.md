@@ -1,0 +1,1 @@
+Project: **Animal Fun Facts**, following tasks from Codecademy.
